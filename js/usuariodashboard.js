@@ -14,7 +14,14 @@ const trips = [
         destination: 'Destino 2',
         driver: 'Conductor 2'
     },
-    // Agrega más datos de viajes aquí
+    {
+        duration: '2.5 horas',
+        date: '2024-04-21',
+        origin: 'Origen 3',
+        destination: 'Destino 3',
+        driver: 'Conductor 3'
+    },
+    
 ];
 
 // Función para mostrar los últimos 4 viajes del usuario
